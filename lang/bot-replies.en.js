@@ -256,6 +256,7 @@ export const botEnReplies = {
     <p>We offer personalized career guidance, insights into the latest IAM market trends in Germany and DACH, and expert advice on optimizing your job search. Whether you're looking for market intelligence, interview preparation tips, or a clear path for your professional growth, we're dedicated to helping you achieve your aspirations.</p>
     <p><b>Book your confidential career consultation by clicking the link below:</b></p>
     <p><a href="https://outlook.office.com/book/IAMhiring@starks-consulting.de/?ismsaljsauthenabled" target="_blank" rel="noopener noreferrer">Schedule Career Consultation</a></p>
+      <img src="./img/sect08.png" class="section-img" alt="">
     <div class="space"></div>
   `,
   "Send Us Your CV" : `
@@ -284,6 +285,7 @@ export const botEnReplies = {
     <p>We look forward to reviewing your profile and helping you advance your career!</p>
 
 
+    <img src="./img/sect09.png" class="section-img" alt="">
     <div class="space"></div>
   `,
   "Imprint" : `
@@ -334,7 +336,8 @@ export const botEnReplies = {
   <p>Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
 
  
- 
+   <img src="./img/sect11.png" class="section-img" alt="">
+    <div class="space"></div>
  
   `,
   "Data Protection" : `
@@ -491,5 +494,8 @@ export const botEnReplies = {
 <p>Die Daten aus dem Bewerber-Pool werden spätestens zwei Jahre nach Erteilung der Einwilligung unwiderruflich gelöscht.</p>
 
 <p style="margin-top: 12px;">© 2025 IAM Hiring. All Rights Reserved.</p>
+   <img src="./img/sect10.png" class="section-img" alt="">
+    <div class="space"></div>
+ 
   `
 }

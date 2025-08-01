@@ -254,6 +254,7 @@ export const botDeReplies = {
     <p>Wir bieten personalisierte Karriereberatung, Einblicke in die neuesten IAM-Markttrends in Deutschland und DACH sowie fachkundige Ratschläge zur Optimierung Ihrer Jobsuche. <br> Egal, ob Sie Marktinformationen, Tipps zur Interviewvorbereitung oder einen klaren Weg für Ihr berufliches Wachstum suchen, wir sind bestrebt, Ihnen bei der Verwirklichung Ihrer Ziele zu helfen. </p>
     <p><b>Buchen Sie Ihre vertrauliche Karriereberatung, indem Sie auf den untenstehenden Link klicken:</b></p>
     <p><a href="https://outlook.office.com/book/IAMhiring@starks-consulting.de/?ismsaljsauthenabled" target="_blank" rel="noopener noreferrer">Karriereberatung vereinbaren</a></p>
+    <img src="./img/sect08.png" class="section-img" alt="">
     <div class="space"></div>
   `,
   "Senden Sie uns Ihren Lebenslauf" : `
@@ -282,6 +283,7 @@ export const botDeReplies = {
     <p>Wir freuen uns darauf, Ihr Profil zu prüfen und Ihnen zu helfen, Ihre Karriere voranzutreiben!</p>
 
 
+      <img src="./img/sect09.png" class="section-img" alt="">
     <div class="space"></div>
   `,
   "Impressum" : `
@@ -332,6 +334,8 @@ export const botDeReplies = {
   <p>Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
 
  
+    <img src="./img/sect11.png" class="section-img" alt="">
+    <div class="space"></div>
  
  
   `,
@@ -489,5 +493,9 @@ export const botDeReplies = {
 <p>Die Daten aus dem Bewerber-Pool werden spätestens zwei Jahre nach Erteilung der Einwilligung unwiderruflich gelöscht.</p>
 
 <p style="margin-top: 12px;">© 2025 IAM Hiring. All Rights Reserved.</p>
+
+   <img src="./img/sect10.png" class="section-img" alt="">
+    <div class="space"></div>
+ 
   `
 }

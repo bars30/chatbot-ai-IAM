@@ -90,8 +90,6 @@ function updateUIText() {
   document.querySelector("footer p").textContent = texts.footer.copyright;
 
   const footerBtns = document.querySelectorAll(".footer-btn-cont button");
-  console.log("154");
-  console.log(footerBtns);
   
   
   if (footerBtns.length >= 2) {
